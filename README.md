@@ -1,8 +1,11 @@
-Portfolio Personnel - Développeuse IA, Mobile & Web
+# Portfolio Personnel - Développeuse IA, Mobile & Web
+
 Ce projet est un portfolio personnel mettant en avant mes compétences en intelligence artificielle, développement mobile avec Flutter, et développement web avec Flask. Il présente mes projets, mes compétences techniques, et inclut un formulaire de contact interactif avec un backend Flask et une base de données SQLite.
-Aperçu
+
+## Aperçu: 
 Ce portfolio est une application web statique avec un frontend en HTML, CSS et JavaScript, et un backend Flask pour gérer les messages envoyés via le formulaire de contact. Les messages sont stockés dans une base de données SQLite. Le design est responsive et utilise Font Awesome pour les icônes et une mise en page moderne.
-Compétences mises en avant
+
+## Compétences mises en avant : 
 
 Langages : Java, Python, C, C++, C#, JavaScript, PHP, XML
 Frameworks & Bibliothèques : Flutter, GetX, Flask, ASP.NET, TensorFlow, Keras
@@ -11,7 +14,7 @@ Bases de données : MongoDB, SQLite
 Outils : Git, Visual Studio, VS Code, Google Colab
 Méthodologies : Agile (Scrum)
 
-Fonctionnalités
+## Fonctionnalités: 
 
 À propos : Présentation de mon parcours et de mes compétences.
 Compétences : Grille visuelle des technologies maîtrisées avec icônes Font Awesome.
@@ -19,21 +22,21 @@ Projets : Showcase de projets, comme une application Flutter pour la classificat
 Contact : Formulaire interactif pour envoyer des messages, avec validation CSRF et stockage en base de données SQLite.
 Responsive Design : Adapté aux écrans mobiles et desktops.
 
-Prérequis
+## Prérequis: 
 
 Python : Version 3.8 ou supérieure
 Node.js : (Optionnel, pour un serveur local alternatif)
 Navigateur web : Chrome, Firefox, ou tout autre navigateur moderne
 Git : Pour cloner le dépôt
 
-Installation
+## Installation: 
 
 Cloner le dépôt :
 git clone https://github.com/MaghrebiMoufida/Portfolio_Personnel.git
 cd portfolio
 
 
-Configurer le backend :
+## Configurer le backend:
 
 Navigue vers le dossier Backend :cd Backend
 
@@ -47,7 +50,7 @@ Lance le serveur Flask :python app.py
 Le serveur démarre sur http://localhost:5000.
 
 
-Configurer le frontend :
+## Configurer le frontend :
 
 Retourne au dossier racine du projet.
 Lance un serveur local pour servir les fichiers HTML, CSS, et JavaScript :
@@ -64,13 +67,13 @@ Clique sur "Go Live" (extension Live Server, port généralement 5500).
 Assure-toi que le port du frontend (par exemple, 8000 ou 5500) est autorisé dans la configuration CORS de app.py.
 
 
-Vérifier la base de données :
+## Vérifier la base de données :
 
 Une base de données SQLite (messages.db) est automatiquement créée dans le dossier Backend pour stocker les messages du formulaire.
 
 
 
-Utilisation
+## Utilisation:
 
 Ouvre le portfolio dans ton navigateur (par exemple, http://localhost:8000).
 Explore les sections À propos, Compétences, et Projets.
@@ -79,7 +82,7 @@ Les messages sont envoyés au backend Flask et stockés dans messages.db.
 Un message de confirmation ou d'erreur s'affiche après soumission.
 
 
-Vérifie les logs dans le terminal Flask pour les requêtes (GET /csrf-token, POST /contact/) et les messages enregistrés.
+## Vérifie les logs dans le terminal Flask pour les requêtes (GET /csrf-token, POST /contact/) et les messages enregistrés.
 
 Structure du projet
 portfolio/
@@ -91,7 +94,7 @@ portfolio/
 ├── main.js                 # Logique JavaScript pour le formulaire
 └── README.md               # Ce fichier
 
-Débogage
+## Débogage: 
 
 Logs Flask : Vérifie les logs dans le terminal où app.py s'exécute pour diagnostiquer les erreurs.
 Console du navigateur : Ouvre les outils de développement (F12 → Console/Network) pour voir les requêtes et erreurs JavaScript.
@@ -104,7 +107,7 @@ Linux/Mac : lsof -i :5000 puis kill -9 <numero>
 
 
 
-Contribution
+## Contribution: 
 Les contributions ou suggestions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request sur GitHub.
 Contact
 
