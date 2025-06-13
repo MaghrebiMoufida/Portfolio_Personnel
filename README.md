@@ -84,16 +84,6 @@ Un message de confirmation ou d'erreur s'affiche après soumission.
 
 ## Vérifie les logs dans le terminal Flask pour les requêtes (GET /csrf-token, POST /contact/) et les messages enregistrés.
 
-Structure du projet
-portfolio/
-├── Backend/
-│   ├── app.py              # Backend Flask
-│   ├── messages.db         # Base de données SQLite (créée automatiquement)
-├── index.html              # Page principale du portfolio
-├── style.css               # Styles CSS
-├── main.js                 # Logique JavaScript pour le formulaire
-└── README.md               # Ce fichier
-
 ## Débogage: 
 
 Logs Flask : Vérifie les logs dans le terminal où app.py s'exécute pour diagnostiquer les erreurs.
