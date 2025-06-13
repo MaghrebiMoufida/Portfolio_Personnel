@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | Dév IA & Mobile</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+  <header>
+    <h1>👩‍💻 Mon Portfolio</h1>
+    <p>Développeuse IA, Mobile & Web</p>
+  </header>
+
+  <section>
+    <h2>À propos</h2>
+    <div class="about-container">
+      <img src="profile.jpg" alt="Photo de Moufida Maghrebi" class="profile-photo" />
+      <p>Je m'appelle Moufida Maghrebi, étudiante en science informatique, spécialisée en génie logiciel, je suis actuellement à la recherche d’une alternance pour développer mes compétences techniques et évoluer dans un environnement dynamique et formateur.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Compétences</h2>
+    <div class="skills-grid">
+      <div class="skill-item">
+        <i class="fab fa-flutter"></i>
+        <p>Flutter</p>
+      </div>
+      <div class="skill-item">
+        <i class="fab fa-python"></i>
+        <p>Python</p>
+      </div>
+      <div class="skill-item">
+        <i class="fab fa-java"></i>
+        <p>Java</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-code"></i>
+        <p>C++</p>
+      </div>
+      <div class="skill-item">
+        <i class="fab fa-js"></i>
+        <p>JavaScript</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-flask"></i>
+        <p>Flask</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-brain"></i>
+        <p>TensorFlow</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-layer-group"></i>
+        <p>Keras</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-database"></i>
+        <p>MongoDB</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-table"></i>
+        <p>SQLite</p>
+      </div>
+      <div class="skill-item">
+        <i class="fab fa-git-alt"></i>
+        <p>Git</p>
+      </div>
+      <div class="skill-item">
+        <i class="fas fa-tasks"></i>
+        <p>Agile (Scrum)</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Projets</h2>
+    <div class="projects-grid">
+      <div class="project-item">
+        <h3>Projet PFE</h3>
+        <p>Application mobile intelligente de reconnaissance de variétés d’oliviers nommé : LeafScan</p>
+        <a href="https://github.com/MaghrebiMoufida/Projet_PFE" target="_blank" class="project-link">Voir sur GitHub</a>
+      </div>
+      <div class="project-item">
+        <h3>Projet Personnel</h3>
+        <p>Partie FrontEnd d'Site web des Produits Cosmétiques nommé : Cosmétiques Elégance </p>
+        <a href="https://github.com/MaghrebiMoufida/cosmetiques-site" target="_blank" class="project-link">Voir sur GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <form id="contact-form">
+      <label for="name">Nom</label>
+      <input type="text" id="name" name="name" required aria-required="true" />
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required aria-required="true" />
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required aria-required="true"></textarea>
+      <button type="submit">Envoyer</button>
+    </form>
+    <p id="status" aria-live="polite"></p>
+  </section>
+
+  <script src="main.js"></script>
+</body>
+</html>

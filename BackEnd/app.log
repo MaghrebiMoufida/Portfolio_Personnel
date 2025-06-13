@@ -1,0 +1,274 @@
+2025-06-03 19:31:53,603 - INFO - Base de données initialisée.
+2025-06-03 19:31:53,672 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-03 19:31:53,672 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 19:31:53,673 - INFO -  * Restarting with stat
+2025-06-03 19:31:53,975 - INFO - Base de données initialisée.
+2025-06-03 19:31:53,996 - WARNING -  * Debugger is active!
+2025-06-03 19:31:53,998 - INFO -  * Debugger PIN: 203-431-157
+2025-06-03 19:31:54,919 - INFO - Jeton CSRF généré : 875d1652-a75c-42a1-83a0-a412b35fc56a
+2025-06-03 19:31:54,920 - INFO - 127.0.0.1 - - [03/Jun/2025 19:31:54] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 19:33:13,850 - INFO - Jeton CSRF généré : 5028acfb-edab-4105-9c88-c04d0a686e7c
+2025-06-03 19:33:13,851 - INFO - 127.0.0.1 - - [03/Jun/2025 19:33:13] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 19:33:15,497 - INFO - Jeton CSRF généré : 73e5903e-ceb9-49aa-915e-76b0e37c0e05
+2025-06-03 19:33:15,498 - INFO - 127.0.0.1 - - [03/Jun/2025 19:33:15] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 19:37:00,889 - INFO - Base de données initialisée avec succès.
+2025-06-03 19:37:00,890 - INFO - Démarrage du serveur Flask...
+2025-06-03 19:37:00,958 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-03 19:37:00,958 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 19:37:00,960 - INFO -  * Restarting with stat
+2025-06-03 19:37:01,290 - INFO - Base de données initialisée avec succès.
+2025-06-03 19:37:01,291 - INFO - Démarrage du serveur Flask...
+2025-06-03 19:37:01,313 - WARNING -  * Debugger is active!
+2025-06-03 19:37:01,318 - INFO -  * Debugger PIN: 203-431-157
+2025-06-03 19:37:15,702 - DEBUG - Jeton CSRF généré : 660a43e6-ad0c-420b-af9e-af2530925690
+2025-06-03 19:37:15,704 - INFO - 127.0.0.1 - - [03/Jun/2025 19:37:15] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 19:41:46,708 - WARNING - Jeton CSRF invalide.
+2025-06-03 19:41:46,712 - INFO - 127.0.0.1 - - [03/Jun/2025 19:41:46] "[31m[1mPOST /contact HTTP/1.1[0m" 403 -
+2025-06-03 20:56:58,957 - DEBUG - Jeton CSRF généré : 7252b8ff-71bd-4ccf-8253-7b2fe6b9024f
+2025-06-03 20:56:58,964 - INFO - 127.0.0.1 - - [03/Jun/2025 20:56:58] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:33:09,095 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-03 21:33:09,098 - INFO - Base de données initialisée avec succès.
+2025-06-03 21:33:09,099 - INFO - Démarrage du serveur Flask...
+2025-06-03 21:33:09,144 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-03 21:33:09,144 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 21:33:09,145 - INFO -  * Restarting with stat
+2025-06-03 21:33:09,354 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-03 21:33:09,354 - INFO - Base de données initialisée avec succès.
+2025-06-03 21:33:09,355 - INFO - Démarrage du serveur Flask...
+2025-06-03 21:33:09,369 - WARNING -  * Debugger is active!
+2025-06-03 21:33:09,375 - INFO -  * Debugger PIN: 203-431-157
+2025-06-03 21:33:18,187 - DEBUG - Jeton CSRF généré : 3aabd12c-79a5-4977-bba7-b1edb7ad64d5
+2025-06-03 21:33:18,189 - INFO - 127.0.0.1 - - [03/Jun/2025 21:33:18] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:33:28,470 - DEBUG - Jeton CSRF reçu : 3aabd12c-79a5-4977-bba7-b1edb7ad64d5
+2025-06-03 21:33:28,540 - INFO - Message reçu de maghrebimoufida2001@gmail.com (Maghrebi).
+2025-06-03 21:33:28,542 - INFO - 127.0.0.1 - - [03/Jun/2025 21:33:28] "POST /contact HTTP/1.1" 200 -
+2025-06-03 21:33:29,007 - DEBUG - Jeton CSRF généré : 29bb1ddc-3e48-4334-a483-ae654df69995
+2025-06-03 21:33:29,010 - INFO - 127.0.0.1 - - [03/Jun/2025 21:33:29] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:33:37,945 - DEBUG - Jeton CSRF généré : a26168b6-34a5-4cb3-b2ed-a1ee65fef1f3
+2025-06-03 21:33:37,946 - INFO - 127.0.0.1 - - [03/Jun/2025 21:33:37] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:33:38,481 - DEBUG - Jeton CSRF généré : 3a6c8698-c0e4-491c-981b-037cee06e343
+2025-06-03 21:33:38,482 - INFO - 127.0.0.1 - - [03/Jun/2025 21:33:38] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:41:06,559 - DEBUG - Jeton CSRF généré : cfa6abcb-646f-47d5-a0aa-c361b550554b
+2025-06-03 21:41:06,564 - INFO - 127.0.0.1 - - [03/Jun/2025 21:41:06] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:44:29,223 - DEBUG - Jeton CSRF reçu : cfa6abcb-646f-47d5-a0aa-c361b550554b
+2025-06-03 21:44:29,243 - INFO - Message reçu de moufidamaghrebi2016@gmail.com (Moufida Maghrebi).
+2025-06-03 21:44:29,244 - INFO - 127.0.0.1 - - [03/Jun/2025 21:44:29] "POST /contact HTTP/1.1" 200 -
+2025-06-03 21:44:29,541 - DEBUG - Jeton CSRF généré : 4dafdacf-13e9-4914-a04b-dd2d476c642f
+2025-06-03 21:44:29,543 - INFO - 127.0.0.1 - - [03/Jun/2025 21:44:29] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-03 21:44:30,044 - DEBUG - Jeton CSRF généré : cb54ce0d-2854-4306-ab8f-87251f74f9a5
+2025-06-03 21:44:30,046 - INFO - 127.0.0.1 - - [03/Jun/2025 21:44:30] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 11:52:13,165 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-05 11:52:13,170 - INFO - Base de données initialisée avec succès.
+2025-06-05 11:52:13,171 - INFO - Démarrage du serveur Flask...
+2025-06-05 11:52:13,232 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-05 11:52:13,232 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 11:52:13,233 - INFO -  * Restarting with stat
+2025-06-05 11:52:13,522 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-05 11:52:13,524 - INFO - Base de données initialisée avec succès.
+2025-06-05 11:52:13,525 - INFO - Démarrage du serveur Flask...
+2025-06-05 11:52:13,542 - WARNING -  * Debugger is active!
+2025-06-05 11:52:13,563 - INFO -  * Debugger PIN: 203-431-157
+2025-06-05 11:52:24,335 - DEBUG - Jeton CSRF généré : ee92fe4f-d66c-43cc-9180-0825e631c6a3
+2025-06-05 11:52:24,336 - INFO - 127.0.0.1 - - [05/Jun/2025 11:52:24] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 11:53:02,343 - DEBUG - Jeton CSRF reçu : ee92fe4f-d66c-43cc-9180-0825e631c6a3
+2025-06-05 11:53:02,920 - DEBUG - Jeton CSRF généré : b371bd3e-447c-49da-b72c-db048baaeed2
+2025-06-05 11:53:02,923 - INFO - 127.0.0.1 - - [05/Jun/2025 11:53:02] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 11:53:04,678 - INFO - Email de confirmation envoyé à moufidamaghrebi2016@gmail.com.
+2025-06-05 11:53:04,679 - INFO - Message reçu de moufidamaghrebi2016@gmail.com (Moufida Maghrebi).
+2025-06-05 11:53:04,683 - INFO - 127.0.0.1 - - [05/Jun/2025 11:53:04] "POST /contact HTTP/1.1" 200 -
+2025-06-05 12:00:07,901 - DEBUG - Jeton CSRF généré : ab671257-e41d-482b-8719-082a65e18270
+2025-06-05 12:00:07,903 - INFO - 127.0.0.1 - - [05/Jun/2025 12:00:07] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 12:00:10,745 - DEBUG - Jeton CSRF généré : a8e8d802-b7bd-47c9-90f2-5cd812e050e1
+2025-06-05 12:00:10,746 - INFO - 127.0.0.1 - - [05/Jun/2025 12:00:10] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 12:01:49,164 - DEBUG - Jeton CSRF généré : 5f56abe6-3b40-4971-b5a4-1e8a8552dcfc
+2025-06-05 12:01:49,167 - INFO - 127.0.0.1 - - [05/Jun/2025 12:01:49] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 12:01:58,059 - INFO - Récupération des messages depuis la base de données.
+2025-06-05 12:01:58,061 - INFO - 127.0.0.1 - - [05/Jun/2025 12:01:58] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-05 12:17:50,585 - DEBUG - Jeton CSRF généré : 9500e64f-1fc5-4495-b178-79ac2f7a71e0
+2025-06-05 12:17:50,591 - INFO - 127.0.0.1 - - [05/Jun/2025 12:17:50] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 12:21:56,557 - DEBUG - Jeton CSRF généré : faee5af8-91fc-411a-9b6b-20ed4c36e97c
+2025-06-05 12:21:56,562 - INFO - 127.0.0.1 - - [05/Jun/2025 12:21:56] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 12:22:10,304 - DEBUG - Jeton CSRF généré : b4423dd2-d78c-48c1-9738-e2a09e768d4c
+2025-06-05 12:22:10,305 - INFO - 127.0.0.1 - - [05/Jun/2025 12:22:10] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:45:54,548 - DEBUG - Jeton CSRF généré : 05e60cbe-3b55-476b-a71a-e1513fa23c93
+2025-06-05 14:45:54,552 - INFO - 127.0.0.1 - - [05/Jun/2025 14:45:54] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:47:19,217 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-05 14:47:19,220 - INFO - Base de données initialisée avec succès.
+2025-06-05 14:47:19,222 - INFO - Démarrage du serveur Flask...
+2025-06-05 14:47:19,314 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-05 14:47:19,315 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 14:47:19,317 - INFO -  * Restarting with stat
+2025-06-05 14:47:19,626 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-05 14:47:19,627 - INFO - Base de données initialisée avec succès.
+2025-06-05 14:47:19,627 - INFO - Démarrage du serveur Flask...
+2025-06-05 14:47:19,644 - WARNING -  * Debugger is active!
+2025-06-05 14:47:19,650 - INFO -  * Debugger PIN: 203-431-157
+2025-06-05 14:47:19,721 - DEBUG - Jeton CSRF généré : 6b45017a-6666-477b-8172-93aa50dca067
+2025-06-05 14:47:19,722 - INFO - 127.0.0.1 - - [05/Jun/2025 14:47:19] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:47:19,968 - DEBUG - Jeton CSRF généré : 3ee7c9cb-213c-4e98-8b90-b03d89a6380f
+2025-06-05 14:47:19,969 - INFO - 127.0.0.1 - - [05/Jun/2025 14:47:19] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:47:20,162 - DEBUG - Jeton CSRF généré : ed9fe4a3-5c27-407b-b426-0b146ea16573
+2025-06-05 14:47:20,162 - INFO - 127.0.0.1 - - [05/Jun/2025 14:47:20] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:47:20,890 - DEBUG - Jeton CSRF généré : 65157d91-0a27-43b8-8864-8d4cd781a3e7
+2025-06-05 14:47:20,894 - INFO - 127.0.0.1 - - [05/Jun/2025 14:47:20] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:47:27,955 - DEBUG - Jeton CSRF généré : 6453361f-b7e1-48e7-a26e-256eeaec9bbc
+2025-06-05 14:47:27,956 - INFO - 127.0.0.1 - - [05/Jun/2025 14:47:27] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:55:56,556 - DEBUG - Jeton CSRF généré : 4af52e67-c0b1-4761-bb01-cc8995c2368a
+2025-06-05 14:55:56,557 - INFO - 127.0.0.1 - - [05/Jun/2025 14:55:56] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 14:59:30,062 - DEBUG - Jeton CSRF généré : 15bd9ac4-4278-4c94-9853-5ede414eb986
+2025-06-05 14:59:30,066 - INFO - 127.0.0.1 - - [05/Jun/2025 14:59:30] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:03,987 - DEBUG - Jeton CSRF généré : 70f6c879-aed7-4d2f-b5ef-5bb33756939b
+2025-06-05 15:00:03,997 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:03] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:04,463 - DEBUG - Jeton CSRF généré : 6eb21fe8-5893-4569-982b-86fcc67c62fd
+2025-06-05 15:00:04,466 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:04] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:34,944 - DEBUG - Jeton CSRF généré : ae16d7fc-1e09-460e-bdcb-337b7c646200
+2025-06-05 15:00:34,946 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:34] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:36,100 - DEBUG - Jeton CSRF généré : 587cac50-b8fc-4eb4-a0fd-a706b880cdd0
+2025-06-05 15:00:36,102 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:36] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:41,922 - DEBUG - Jeton CSRF généré : ebb2f332-af4a-4b9b-aead-ae8f8bacf44f
+2025-06-05 15:00:41,923 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:41] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:47,894 - DEBUG - Jeton CSRF généré : 79b9a4ad-1064-4222-a851-7555f9ff52de
+2025-06-05 15:00:47,895 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:47] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:49,213 - DEBUG - Jeton CSRF généré : 18ec9f27-c4b7-4132-b7f5-42e56d2fea5f
+2025-06-05 15:00:49,214 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:49] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:00:50,447 - DEBUG - Jeton CSRF généré : 7b47d214-0ac4-40df-8335-dbf1470d80a2
+2025-06-05 15:00:50,449 - INFO - 127.0.0.1 - - [05/Jun/2025 15:00:50] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:01:05,548 - DEBUG - Jeton CSRF généré : 928cce54-fdde-4501-9c53-06b47c20a473
+2025-06-05 15:01:05,550 - INFO - 127.0.0.1 - - [05/Jun/2025 15:01:05] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:03:08,403 - DEBUG - Jeton CSRF généré : b72f1b05-dbee-46ed-a766-5853a5690aa3
+2025-06-05 15:03:08,405 - INFO - 127.0.0.1 - - [05/Jun/2025 15:03:08] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:03:30,960 - DEBUG - Jeton CSRF généré : ba7d3e30-0adc-48ab-95d8-7953eecf32bc
+2025-06-05 15:03:30,962 - INFO - 127.0.0.1 - - [05/Jun/2025 15:03:30] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:05:36,384 - DEBUG - Jeton CSRF généré : bbd8bec1-0eee-4dce-a0a2-702cd4af59fe
+2025-06-05 15:05:36,387 - INFO - 127.0.0.1 - - [05/Jun/2025 15:05:36] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:06:05,822 - DEBUG - Jeton CSRF généré : b57ddac7-8d04-4c3f-b24d-b17c0dc4f89e
+2025-06-05 15:06:05,824 - INFO - 127.0.0.1 - - [05/Jun/2025 15:06:05] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:08:21,563 - DEBUG - Jeton CSRF reçu : b57ddac7-8d04-4c3f-b24d-b17c0dc4f89e
+2025-06-05 15:08:22,455 - DEBUG - Jeton CSRF généré : f7688db1-20c5-45a0-8b34-ffcf15ca5866
+2025-06-05 15:08:22,456 - INFO - 127.0.0.1 - - [05/Jun/2025 15:08:22] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-05 15:08:25,626 - INFO - Email de confirmation envoyé à moufidamaghrebi2016@gmail.com.
+2025-06-05 15:08:25,633 - INFO - Message reçu de moufidamaghrebi2016@gmail.com (Omar Mansri).
+2025-06-05 15:08:25,635 - INFO - 127.0.0.1 - - [05/Jun/2025 15:08:25] "POST /contact HTTP/1.1" 200 -
+2025-06-07 10:30:49,391 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-07 10:30:49,394 - INFO - Base de données initialisée avec succès.
+2025-06-07 10:30:49,395 - INFO - Démarrage du serveur Flask...
+2025-06-07 10:30:49,432 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-07 10:30:49,432 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-07 10:30:49,433 - INFO -  * Restarting with stat
+2025-06-07 10:30:49,658 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-07 10:30:49,659 - INFO - Base de données initialisée avec succès.
+2025-06-07 10:30:49,659 - INFO - Démarrage du serveur Flask...
+2025-06-07 10:30:49,669 - WARNING -  * Debugger is active!
+2025-06-07 10:30:49,672 - INFO -  * Debugger PIN: 130-113-741
+2025-06-07 10:31:01,753 - DEBUG - Jeton CSRF généré : ec6bddb2-ccf7-4a64-996d-87642f69070d
+2025-06-07 10:31:01,756 - INFO - 127.0.0.1 - - [07/Jun/2025 10:31:01] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 10:31:25,608 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 10:31:25,608 - INFO - 127.0.0.1 - - [07/Jun/2025 10:31:25] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 10:49:02,772 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-07 10:49:02,773 - INFO - Base de données initialisée avec succès.
+2025-06-07 10:49:02,774 - INFO - Démarrage du serveur Flask...
+2025-06-07 10:49:02,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-06-07 10:49:02,794 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-07 10:49:02,795 - INFO -  * Restarting with stat
+2025-06-07 10:49:03,018 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-07 10:49:03,019 - INFO - Base de données initialisée avec succès.
+2025-06-07 10:49:03,020 - INFO - Démarrage du serveur Flask...
+2025-06-07 10:49:03,030 - WARNING -  * Debugger is active!
+2025-06-07 10:49:03,032 - INFO -  * Debugger PIN: 130-113-741
+2025-06-07 10:49:34,108 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 10:49:34,109 - INFO - 127.0.0.1 - - [07/Jun/2025 10:49:34] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 10:49:39,378 - DEBUG - Jeton CSRF généré : f4554c50-c97d-4a2e-b983-8816b825574c
+2025-06-07 10:49:39,379 - INFO - 127.0.0.1 - - [07/Jun/2025 10:49:39] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 10:49:49,551 - DEBUG - Jeton CSRF généré : 74b8f404-481a-45c9-9a1c-5a8afe199b7e
+2025-06-07 10:49:49,553 - INFO - 127.0.0.1 - - [07/Jun/2025 10:49:49] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 10:50:12,969 - DEBUG - Jeton CSRF généré : 4b102a93-f914-4661-a5e8-6f2c68a0bde9
+2025-06-07 10:50:12,971 - INFO - 127.0.0.1 - - [07/Jun/2025 10:50:12] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 10:50:13,525 - DEBUG - Jeton CSRF généré : a55982be-9dbb-4cd3-a636-b04fb98400c0
+2025-06-07 10:50:13,526 - INFO - 127.0.0.1 - - [07/Jun/2025 10:50:13] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 10:52:00,409 - DEBUG - Jeton CSRF généré : 53422f21-593c-4f4a-b3ce-056a2dd36bf4
+2025-06-07 10:52:00,415 - INFO - 127.0.0.1 - - [07/Jun/2025 10:52:00] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 10:54:49,773 - DEBUG - Jeton CSRF généré : 1e9477d6-d5bc-440a-95eb-056ff3ec326e
+2025-06-07 10:54:49,777 - INFO - 127.0.0.1 - - [07/Jun/2025 10:54:49] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 11:13:16,281 - DEBUG - Jeton CSRF généré : 231b01f2-c0b8-49d0-928f-3bf6edeeacb7
+2025-06-07 11:13:16,282 - INFO - 127.0.0.1 - - [07/Jun/2025 11:13:16] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 11:47:38,096 - DEBUG - Jeton CSRF généré : 9e5270ab-50b3-4774-adf7-91173dbce9a0
+2025-06-07 11:47:38,099 - INFO - 127.0.0.1 - - [07/Jun/2025 11:47:38] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 11:47:58,837 - DEBUG - Jeton CSRF généré : 7498e0db-cac3-45bf-b7f2-d734bc65eda6
+2025-06-07 11:47:58,838 - INFO - 127.0.0.1 - - [07/Jun/2025 11:47:58] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 11:47:59,289 - DEBUG - Jeton CSRF généré : 070a2710-cb24-4e23-bd4d-c5ce2db0b714
+2025-06-07 11:47:59,290 - INFO - 127.0.0.1 - - [07/Jun/2025 11:47:59] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 11:59:43,446 - DEBUG - Jeton CSRF généré : b9f7289a-654b-4595-b8cd-1c6139f3a9b7
+2025-06-07 11:59:43,462 - INFO - 127.0.0.1 - - [07/Jun/2025 11:59:43] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:06:30,153 - DEBUG - Jeton CSRF généré : 6601f3bf-e1d4-4f60-ae4b-428c86c55293
+2025-06-07 12:06:30,155 - INFO - 127.0.0.1 - - [07/Jun/2025 12:06:30] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:06:38,947 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 12:06:38,950 - INFO - 127.0.0.1 - - [07/Jun/2025 12:06:38] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 12:06:45,936 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 12:06:45,937 - INFO - 127.0.0.1 - - [07/Jun/2025 12:06:45] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 12:15:41,210 - DEBUG - Jeton CSRF généré : ffe53b82-46dd-4870-9bee-1b932c9d47c5
+2025-06-07 12:15:41,213 - INFO - 127.0.0.1 - - [07/Jun/2025 12:15:41] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:18:04,854 - DEBUG - Jeton CSRF généré : 0c1ffb49-7973-495d-ad0d-41f6922341b7
+2025-06-07 12:18:04,858 - INFO - 127.0.0.1 - - [07/Jun/2025 12:18:04] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:18:06,244 - DEBUG - Jeton CSRF généré : 4dc52d3c-0c07-4ab7-8555-c91bcfa04578
+2025-06-07 12:18:06,246 - INFO - 127.0.0.1 - - [07/Jun/2025 12:18:06] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:18:13,745 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 12:18:13,747 - INFO - 127.0.0.1 - - [07/Jun/2025 12:18:13] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 12:23:55,639 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 12:23:55,646 - INFO - 127.0.0.1 - - [07/Jun/2025 12:23:55] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 12:24:27,334 - INFO - Récupération des messages depuis la base de données.
+2025-06-07 12:24:27,336 - INFO - 127.0.0.1 - - [07/Jun/2025 12:24:27] "POST /admin/messages HTTP/1.1" 200 -
+2025-06-07 12:24:40,458 - DEBUG - Jeton CSRF généré : 1cea0e15-36d3-4cf0-9115-ef329506b846
+2025-06-07 12:24:40,463 - INFO - 127.0.0.1 - - [07/Jun/2025 12:24:40] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:24:55,074 - DEBUG - Jeton CSRF généré : c4e8fb7c-9c52-4041-9142-9da6fa12b2bb
+2025-06-07 12:24:55,076 - INFO - 127.0.0.1 - - [07/Jun/2025 12:24:55] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-07 12:29:35,368 - DEBUG - Jeton CSRF généré : c1e820a4-7383-473d-b09e-c619e9779d17
+2025-06-07 12:29:35,371 - INFO - 127.0.0.1 - - [07/Jun/2025 12:29:35] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-13 13:56:07,975 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-13 13:56:07,979 - INFO - Base de données initialisée avec succès.
+2025-06-13 13:56:07,980 - INFO - Démarrage du serveur Flask...
+2025-06-13 13:56:08,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.165:5000
+2025-06-13 13:56:08,082 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 13:56:08,083 - INFO -  * Restarting with stat
+2025-06-13 13:56:08,345 - INFO - Permissions du dossier vérifiées avec succès.
+2025-06-13 13:56:08,346 - INFO - Base de données initialisée avec succès.
+2025-06-13 13:56:08,347 - INFO - Démarrage du serveur Flask...
+2025-06-13 13:56:08,360 - WARNING -  * Debugger is active!
+2025-06-13 13:56:08,369 - INFO -  * Debugger PIN: 137-122-708
+2025-06-13 13:56:25,191 - DEBUG - Jeton CSRF généré : 7dc9d229-c941-451e-9d57-053b93ec2adb
+2025-06-13 13:56:25,194 - INFO - 127.0.0.1 - - [13/Jun/2025 13:56:25] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-13 13:56:25,447 - INFO - 127.0.0.1 - - [13/Jun/2025 13:56:25] "[33mOPTIONS /contact/ HTTP/1.1[0m" 404 -
+2025-06-13 13:57:06,531 - DEBUG - Jeton CSRF généré : be209d48-340e-43a0-92dd-4b532ca21398
+2025-06-13 13:57:06,532 - INFO - 127.0.0.1 - - [13/Jun/2025 13:57:06] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-13 13:57:06,785 - INFO - 127.0.0.1 - - [13/Jun/2025 13:57:06] "[33mOPTIONS /contact/ HTTP/1.1[0m" 404 -
+2025-06-13 13:57:18,066 - DEBUG - Jeton CSRF généré : 79917a27-8b7a-416a-8062-bc03a27cae02
+2025-06-13 13:57:18,067 - INFO - 127.0.0.1 - - [13/Jun/2025 13:57:18] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-13 13:57:18,376 - DEBUG - Jeton CSRF généré : 80dfdb00-b78a-4636-a5d7-84a535f661e6
+2025-06-13 13:57:18,376 - INFO - 127.0.0.1 - - [13/Jun/2025 13:57:18] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-13 13:57:32,624 - DEBUG - Jeton CSRF généré : 695e7f57-19eb-4cc3-b3ee-ee21aa7ed418
+2025-06-13 13:57:32,626 - INFO - 127.0.0.1 - - [13/Jun/2025 13:57:32] "GET /csrf-token HTTP/1.1" 200 -
+2025-06-13 14:02:17,610 - DEBUG - Jeton CSRF généré : 9a4a9cbf-1e10-4279-a682-5109769b7ac7
+2025-06-13 14:02:17,613 - INFO - 127.0.0.1 - - [13/Jun/2025 14:02:17] "GET /csrf-token HTTP/1.1" 200 -
